@@ -1,4 +1,4 @@
 # LipNet
 
-##STILL IN PROGRESS 
+STILL IN PROGRESS 
 
